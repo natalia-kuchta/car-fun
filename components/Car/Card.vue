@@ -10,7 +10,7 @@
       />
       <div class="p-4 flex flex-col">
         <div>
-          <h1 class="text-2xl text-blue-700">Volvo XC40</h1>
+          <h1 class="text-2xl text-pink-600">Volvo XC40</h1>
           <p class="text-gray-700">
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </p>

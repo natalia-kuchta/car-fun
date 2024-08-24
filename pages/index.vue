@@ -1,11 +1,19 @@
+<script setup lang="ts">
 
+useHead({
+  title:"CarFun",
+})
+
+</script>
 
 <template>
-  <div>
-    <NavBar/>
-    <CarHero/>
+<div>
 
-  </div>
+  <CarHero/>
+</div>
 </template>
 
-<style scoped></style>
+<style scoped>
+
+
+</style>

@@ -4,9 +4,10 @@
 
 <template>
   <header
-      class="sticky top-0 z-50 flex justify-between items-center space-x-1 border-b bg-grey p-4 shadow"
+      class="fixed w-full top-0 z-50 flex justify-between items-center space-x-1 border-b border-pink-800 bg-black/50
+      backdrop-blur-xl p-4 shadow-2xl"
   >
-    <a class="text-pink text-3xl font-mono" href="">CarFun</a>
+    <NuxtLink class="text-pink-600 text-3xl font-mono" to="/">CarFun</NuxtLink>
   </header>
 </template>
 
